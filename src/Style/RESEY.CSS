@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(199, 177, 220);
+ }
+ 
+ * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+ 
+ 
+ .vt323-regular {
+     font-family: "VT323", monospace;
+     font-weight: 400;
+     font-style: normal;
+   }
+ 
